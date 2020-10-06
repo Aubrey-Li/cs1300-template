@@ -121,7 +121,7 @@ img.resize {
     margin-left: 0%;
     margin-bottom: 5%;
     max-width: 50%;
-    height: 20%;
+    height: auto;
 }
 
 @keyframes from-left {
@@ -152,7 +152,7 @@ li {
     margin-left: 0%;
     margin-bottom: 5%;
     max-width: 50%;
-    height: 20%;
+    height: auto;
 }
 
 #storyboard-image {
@@ -162,5 +162,5 @@ li {
     margin-left: 0%;
     margin-bottom: 5%;
     max-width: 50%;
-    height: 20%;
+    height: auto;
 }
