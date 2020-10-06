@@ -115,12 +115,13 @@ img.resize {
 }
 
 #cartoon-image {
-    max-width: 50%;
-    height: 30%;
     display: flex;
     flex-wrap: wrap;
+    align-content: space-between;
     margin-left: 0%;
-    margin-right: 10%;
+    margin-bottom: 5%;
+    max-width: 50%;
+    height: 20%;
 }
 
 @keyframes from-left {
@@ -157,9 +158,9 @@ li {
 #storyboard-image {
     display: flex;
     flex-wrap: wrap;
-    align-content: center;
+    align-content: space-between;
     margin-left: 0%;
     margin-bottom: 5%;
     max-width: 50%;
-    height: 30%;
+    height: 20%;
 }
